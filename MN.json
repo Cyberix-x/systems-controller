@@ -1,0 +1,6 @@
+{
+  "host": "0.0.0.0",
+  "port": 8000,
+  "work_dir": "MN/work",
+  "authorized_keys_dir": "MN/authorized_keys"
+}

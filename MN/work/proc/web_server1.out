@@ -1,0 +1,88 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2026-03-07T12:39:34.252-05:00  INFO 28488 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.15 with PID 28488 (/home/ubuntu/services/web1.jar started by root in /home/ubuntu/hb_bin)
+2026-03-07T12:39:34.262-05:00  INFO 28488 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-03-07T12:39:36.590-05:00  INFO 28488 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8010 (http)
+2026-03-07T12:39:36.608-05:00  INFO 28488 --- [demo] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-07T12:39:36.608-05:00  INFO 28488 --- [demo] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2026-03-07T12:39:36.681-05:00  INFO 28488 --- [demo] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-03-07T12:39:36.684-05:00  INFO 28488 --- [demo] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2234 ms
+2026-03-07T12:39:37.305-05:00  INFO 28488 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8010 (http) with context path '/'
+2026-03-07T12:39:37.334-05:00  INFO 28488 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.925 seconds (process running for 4.973)
+2026-03-07T12:40:04.502-05:00  INFO 28488 --- [demo] [0.0-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-07T12:40:04.503-05:00  INFO 28488 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-07T12:40:04.506-05:00  INFO 28488 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2026-03-07T12:40:40.805-05:00  INFO 28627 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.15 with PID 28627 (/home/ubuntu/services/web1.jar started by root in /home/ubuntu/hb_bin)
+2026-03-07T12:40:40.824-05:00  INFO 28627 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-03-07T12:40:43.132-05:00  INFO 28627 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8010 (http)
+2026-03-07T12:40:43.161-05:00  INFO 28627 --- [demo] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-07T12:40:43.162-05:00  INFO 28627 --- [demo] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2026-03-07T12:40:43.255-05:00  INFO 28627 --- [demo] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-03-07T12:40:43.257-05:00  INFO 28627 --- [demo] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2148 ms
+2026-03-07T12:40:43.940-05:00  INFO 28627 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8010 (http) with context path '/'
+2026-03-07T12:40:43.971-05:00  INFO 28627 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 4.617 seconds (process running for 5.662)
+2026-03-07T12:40:46.036-05:00  INFO 28627 --- [demo] [0.0-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-07T12:40:46.037-05:00  INFO 28627 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-07T12:40:46.039-05:00  INFO 28627 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2026-03-07T18:58:47.789-05:00  INFO 32574 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.15 with PID 32574 (/home/ubuntu/services/web1.jar started by root in /home/ubuntu/hb_bin)
+2026-03-07T18:58:47.806-05:00  INFO 32574 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-03-07T18:58:50.811-05:00  INFO 32574 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8010 (http)
+2026-03-07T18:58:50.841-05:00  INFO 32574 --- [demo] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-07T18:58:50.842-05:00  INFO 32574 --- [demo] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2026-03-07T18:58:50.929-05:00  INFO 32574 --- [demo] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-03-07T18:58:50.932-05:00  INFO 32574 --- [demo] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2825 ms
+2026-03-07T18:58:51.758-05:00  INFO 32574 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8010 (http) with context path '/'
+2026-03-07T18:58:51.799-05:00  INFO 32574 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 5.45 seconds (process running for 6.652)
+2026-03-07T18:58:53.770-05:00  INFO 32574 --- [demo] [0.0-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-07T18:58:53.771-05:00  INFO 32574 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-07T18:58:53.772-05:00  INFO 32574 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2026-03-08T12:06:29.793-04:00  INFO 16785 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.15 with PID 16785 (/home/ubuntu/services/web1.jar started by root in /home/ubuntu/hb_bin)
+2026-03-08T12:06:29.803-04:00  INFO 16785 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-03-08T12:06:31.638-04:00  INFO 16785 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8010 (http)
+2026-03-08T12:06:31.657-04:00  INFO 16785 --- [demo] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-08T12:06:31.658-04:00  INFO 16785 --- [demo] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2026-03-08T12:06:31.740-04:00  INFO 16785 --- [demo] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-03-08T12:06:31.742-04:00  INFO 16785 --- [demo] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1776 ms
+2026-03-08T12:06:32.234-04:00  INFO 16785 --- [demo] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8010 (http) with context path '/'
+2026-03-08T12:06:32.267-04:00  INFO 16785 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.311 seconds (process running for 4.34)
+2026-03-08T12:06:45.994-04:00  INFO 16785 --- [demo] [0.0-8010-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-08T12:06:45.994-04:00  INFO 16785 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-03-08T12:06:45.997-04:00  INFO 16785 --- [demo] [0.0-8010-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms

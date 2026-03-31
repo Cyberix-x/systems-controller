@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "port": 8001,
+  "work_dir": "SC",
+  "control_node_path": "linux/ControlNode/ControlNode.bin"
+}

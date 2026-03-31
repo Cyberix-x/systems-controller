@@ -1,0 +1,913 @@
+2025-02-26 07:25:37: Connection opened from 127.0.0.1:49586
+2025-02-26 07:25:37: Connection closed from 127.0.0.1:49586
+2025-02-26 07:31:42: Connection opened from 127.0.0.1:49602
+2025-02-26 07:31:42: Client 127.0.0.1:49602 performed: open_remote_transfer as root
+2025-02-26 07:31:42: Client 127.0.0.1:49602 performed: delete_service as root
+2025-02-26 07:31:42: Client 127.0.0.1:49602 performed: create_service as root
+2025-02-26 07:31:42: Connection closed from 127.0.0.1:49602
+2025-02-26 07:34:00: Connection opened from 127.0.0.1:49611
+2025-02-26 07:34:00: Client 127.0.0.1:49611 performed: open_remote_transfer as root
+2025-02-26 07:34:00: Client 127.0.0.1:49611 performed: write_remote_transfer as root
+2025-02-26 07:34:00: Client 127.0.0.1:49611 performed: close_remote_transfer as root
+2025-02-26 07:34:00: Client 127.0.0.1:49611 performed: delete_service as root
+2025-02-26 07:34:01: Client 127.0.0.1:49611 performed: create_service as root
+2025-02-26 07:34:01: Connection closed from 127.0.0.1:49611
+2025-02-26 07:46:30: Connection opened from 127.0.0.1:49748
+2025-02-26 07:46:31: Client 127.0.0.1:49748 performed: open_remote_transfer as root
+2025-02-26 07:46:31: Client 127.0.0.1:49748 performed: write_remote_transfer as root
+2025-02-26 07:46:31: Client 127.0.0.1:49748 performed: close_remote_transfer as root
+2025-02-26 07:46:31: Client 127.0.0.1:49748 performed: delete_service as root
+2025-02-26 07:46:31: Client 127.0.0.1:49748 performed: create_service as root
+2025-02-26 07:46:31: Client 127.0.0.1:49748 performed: status_service as root
+2025-02-26 07:46:31: Connection closed from 127.0.0.1:49748
+2025-02-26 07:48:15: Connection opened from 127.0.0.1:49751
+2025-02-26 07:48:15: Client 127.0.0.1:49751 performed: open_remote_transfer as root
+2025-02-26 07:48:15: Client 127.0.0.1:49751 performed: write_remote_transfer as root
+2025-02-26 07:48:15: Client 127.0.0.1:49751 performed: close_remote_transfer as root
+2025-02-26 07:48:15: Client 127.0.0.1:49751 performed: delete_service as root
+2025-02-26 07:48:16: Client 127.0.0.1:49751 performed: create_service as root
+2025-02-26 07:48:16: Client 127.0.0.1:49751 performed: start_service as root
+2025-02-26 07:48:16: Client 127.0.0.1:49751 performed: status_service as root
+2025-02-26 07:48:16: Connection closed from 127.0.0.1:49751
+2025-02-27 06:26:32: Connection opened from 127.0.0.1:57481
+2025-02-27 06:26:33: Client 127.0.0.1:57481 performed: open_remote_transfer as root
+2025-02-27 06:26:33: Client 127.0.0.1:57481 performed: write_remote_transfer as root
+2025-02-27 06:26:33: Client 127.0.0.1:57481 performed: close_remote_transfer as root
+2025-02-27 06:26:33: Client 127.0.0.1:57481 performed: delete_service as root
+2025-02-27 06:26:33: Client 127.0.0.1:57481 performed: create_service as root
+2025-02-27 06:26:33: Client 127.0.0.1:57481 performed: start_service as root
+2025-02-27 06:26:34: Client 127.0.0.1:57481 performed: status_service as root
+2025-02-27 06:26:34: Connection closed from 127.0.0.1:57481
+2025-02-27 06:38:21: Connection opened from 127.0.0.1:57653
+2025-02-27 06:38:22: Client 127.0.0.1:57653 performed: open_remote_transfer as root
+2025-02-27 06:38:22: Client 127.0.0.1:57653 performed: write_remote_transfer as root
+2025-02-27 06:38:22: Client 127.0.0.1:57653 performed: close_remote_transfer as root
+2025-02-27 06:38:22: Client 127.0.0.1:57653 performed: delete_service as root
+2025-02-27 06:38:22: Client 127.0.0.1:57653 performed: create_service as root
+2025-02-27 06:38:22: Client 127.0.0.1:57653 performed: start_service as root
+2025-02-27 06:38:22: Client 127.0.0.1:57653 performed: status_service as root
+2025-02-27 06:38:22: Connection closed from 127.0.0.1:57653
+2025-02-27 07:38:52: Connection opened from 127.0.0.1:58183
+2025-02-27 07:38:52: Client 127.0.0.1:58183 performed: open_remote_transfer as root
+2025-02-27 07:38:52: Client 127.0.0.1:58183 performed: write_remote_transfer as root
+2025-02-27 07:38:53: Client 127.0.0.1:58183 performed: close_remote_transfer as root
+2025-02-27 07:38:53: Client 127.0.0.1:58183 performed: delete_service as root
+2025-02-27 07:38:53: Client 127.0.0.1:58183 performed: create_service as root
+2025-02-27 07:38:53: Client 127.0.0.1:58183 performed: start_service as root
+2025-02-27 07:38:53: Client 127.0.0.1:58183 performed: status_service as root
+2025-02-27 07:38:53: Connection closed from 127.0.0.1:58183
+2025-02-27 07:48:33: Connection opened from 127.0.0.1:58243
+2025-02-27 07:48:33: Client 127.0.0.1:58243 performed: open_remote_transfer as root
+2025-02-27 07:48:33: Client 127.0.0.1:58243 performed: write_remote_transfer as root
+2025-02-27 07:48:33: Client 127.0.0.1:58243 performed: close_remote_transfer as root
+2025-02-27 07:48:33: Client 127.0.0.1:58243 performed: delete_service as root
+2025-02-27 07:48:34: Client 127.0.0.1:58243 performed: create_service as root
+2025-02-27 07:48:34: Client 127.0.0.1:58243 performed: start_service as root
+2025-02-27 07:48:34: Client 127.0.0.1:58243 performed: status_service as root
+2025-02-27 07:48:34: Connection closed from 127.0.0.1:58243
+2025-02-27 07:51:53: Connection opened from 127.0.0.1:58258
+2025-02-27 07:51:53: Client 127.0.0.1:58258 performed: open_remote_transfer as root
+2025-02-27 07:51:54: Client 127.0.0.1:58258 performed: write_remote_transfer as root
+2025-02-27 07:51:54: Client 127.0.0.1:58258 performed: close_remote_transfer as root
+2025-02-27 07:51:54: Client 127.0.0.1:58258 performed: delete_service as root
+2025-02-27 07:51:54: Client 127.0.0.1:58258 performed: create_service as root
+2025-02-27 07:51:54: Client 127.0.0.1:58258 performed: start_service as root
+2025-02-27 07:51:54: Client 127.0.0.1:58258 performed: status_service as root
+2025-02-27 07:51:54: Connection closed from 127.0.0.1:58258
+2025-02-27 07:53:47: Connection opened from 127.0.0.1:58262
+2025-02-27 07:53:47: Client 127.0.0.1:58262 performed: open_remote_transfer as root
+2025-02-27 07:53:47: Client 127.0.0.1:58262 performed: write_remote_transfer as root
+2025-02-27 07:53:47: Client 127.0.0.1:58262 performed: close_remote_transfer as root
+2025-02-27 07:53:47: Client 127.0.0.1:58262 performed: delete_service as root
+2025-02-27 07:53:47: Client 127.0.0.1:58262 performed: run_cmd as root
+2025-02-27 07:53:53: Client 127.0.0.1:58262 performed: start_service as root
+2025-02-27 07:53:54: Client 127.0.0.1:58262 performed: status_service as root
+2025-02-27 07:53:54: Connection closed from 127.0.0.1:58262
+2025-02-27 07:54:51: Connection opened from 127.0.0.1:58295
+2025-02-27 07:54:51: Client 127.0.0.1:58295 performed: open_remote_transfer as root
+2025-02-27 07:54:51: Client 127.0.0.1:58295 performed: write_remote_transfer as root
+2025-02-27 07:54:51: Client 127.0.0.1:58295 performed: close_remote_transfer as root
+2025-02-27 07:54:51: Client 127.0.0.1:58295 performed: delete_service as root
+2025-02-27 07:54:51: Client 127.0.0.1:58295 performed: run_cmd as root
+2025-02-27 07:54:58: Client 127.0.0.1:58295 performed: start_service as root
+2025-02-27 07:54:58: Client 127.0.0.1:58295 performed: status_service as root
+2025-02-27 07:54:58: Connection closed from 127.0.0.1:58295
+2025-02-27 07:55:23: Connection opened from 127.0.0.1:58303
+2025-02-27 07:55:23: Client 127.0.0.1:58303 performed: open_remote_transfer as root
+2025-02-27 07:55:24: Client 127.0.0.1:58303 performed: write_remote_transfer as root
+2025-02-27 07:55:24: Client 127.0.0.1:58303 performed: close_remote_transfer as root
+2025-02-27 07:55:24: Client 127.0.0.1:58303 performed: delete_service as root
+2025-02-27 07:55:24: Client 127.0.0.1:58303 performed: run_cmd as root
+2025-02-27 07:56:15: Client 127.0.0.1:58303 performed: start_service as root
+2025-02-27 07:56:15: Client 127.0.0.1:58303 performed: status_service as root
+2025-02-27 07:56:15: Connection closed from 127.0.0.1:58303
+2025-02-27 16:37:01: Connection opened from 127.0.0.1:58876
+2025-02-27 16:37:01: Client 127.0.0.1:58876 performed: open_remote_transfer as root
+2025-02-27 16:37:01: Client 127.0.0.1:58876 performed: write_remote_transfer as root
+2025-02-27 16:37:02: Client 127.0.0.1:58876 performed: close_remote_transfer as root
+2025-02-27 16:37:02: Client 127.0.0.1:58876 performed: delete_service as root
+2025-02-27 16:37:02: Client 127.0.0.1:58876 performed: run_cmd as root
+2025-02-27 16:37:07: Client 127.0.0.1:58876 performed: start_service as root
+2025-02-27 16:37:07: Client 127.0.0.1:58876 performed: status_service as root
+2025-02-27 16:37:07: Connection closed from 127.0.0.1:58876
+2025-02-27 16:46:50: Connection opened from 127.0.0.1:58898
+2025-02-27 16:46:50: Client 127.0.0.1:58898 performed: open_remote_transfer as root
+2025-02-27 16:46:51: Client 127.0.0.1:58898 performed: write_remote_transfer as root
+2025-02-27 16:46:51: Client 127.0.0.1:58898 performed: close_remote_transfer as root
+2025-02-27 16:46:51: Client 127.0.0.1:58898 performed: delete_service as root
+2025-02-27 16:46:51: Client 127.0.0.1:58898 performed: create_service as root
+2025-02-27 16:46:51: Client 127.0.0.1:58898 performed: start_service as root
+2025-02-27 16:46:51: Client 127.0.0.1:58898 performed: status_service as root
+2025-02-27 16:46:51: Connection closed from 127.0.0.1:58898
+2025-02-27 16:49:55: Connection opened from 127.0.0.1:58912
+2025-02-27 16:49:55: Client 127.0.0.1:58912 performed: open_remote_transfer as root
+2025-02-27 16:49:56: Client 127.0.0.1:58912 performed: write_remote_transfer as root
+2025-02-27 16:49:56: Client 127.0.0.1:58912 performed: close_remote_transfer as root
+2025-02-27 16:49:56: Client 127.0.0.1:58912 performed: delete_service as root
+2025-02-27 16:49:56: Client 127.0.0.1:58912 performed: create_service as root
+2025-02-27 16:49:56: Client 127.0.0.1:58912 performed: start_service as root
+2025-02-27 16:49:56: Client 127.0.0.1:58912 performed: status_service as root
+2025-02-27 16:49:56: Connection closed from 127.0.0.1:58912
+2025-02-27 16:51:57: Connection opened from 127.0.0.1:58914
+2025-02-27 16:51:57: Client 127.0.0.1:58914 performed: open_remote_transfer as root
+2025-02-27 16:51:58: Client 127.0.0.1:58914 performed: write_remote_transfer as root
+2025-02-27 16:51:58: Client 127.0.0.1:58914 performed: close_remote_transfer as root
+2025-02-27 16:51:58: Client 127.0.0.1:58914 performed: delete_service as root
+2025-02-27 16:51:58: Client 127.0.0.1:58914 performed: create_service as root
+2025-02-27 16:51:58: Client 127.0.0.1:58914 performed: start_service as root
+2025-02-27 16:51:58: Client 127.0.0.1:58914 performed: status_service as root
+2025-02-27 16:51:58: Connection closed from 127.0.0.1:58914
+2025-02-27 16:58:55: Connection opened from 127.0.0.1:58933
+2025-02-27 16:58:56: Client 127.0.0.1:58933 performed: open_remote_transfer as root
+2025-02-27 16:58:56: Client 127.0.0.1:58933 performed: write_remote_transfer as root
+2025-02-27 16:58:56: Client 127.0.0.1:58933 performed: close_remote_transfer as root
+2025-02-27 16:58:56: Client 127.0.0.1:58933 performed: delete_service as root
+2025-02-27 16:58:56: Client 127.0.0.1:58933 performed: create_service as root
+2025-02-27 16:58:56: Client 127.0.0.1:58933 performed: start_service as root
+2025-02-27 16:58:56: Client 127.0.0.1:58933 performed: status_service as root
+2025-02-27 16:58:56: Connection closed from 127.0.0.1:58933
+2025-02-28 04:15:04: Connection opened from 127.0.0.1:63334
+2025-02-28 04:15:04: Client 127.0.0.1:63334 performed: open_remote_transfer as root
+2025-02-28 04:15:05: Client 127.0.0.1:63334 performed: write_remote_transfer as root
+2025-02-28 04:15:05: Client 127.0.0.1:63334 performed: close_remote_transfer as root
+2025-02-28 04:15:05: Client 127.0.0.1:63334 performed: delete_service as root
+2025-02-28 04:15:05: Client 127.0.0.1:63334 performed: create_service as root
+2025-02-28 04:15:05: Client 127.0.0.1:63334 performed: start_service as root
+2025-02-28 04:15:05: Client 127.0.0.1:63334 performed: status_service as root
+2025-02-28 04:15:05: Connection closed from 127.0.0.1:63334
+2025-02-28 04:26:54: Connection opened from 127.0.0.1:63388
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: open_remote_transfer as root
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: write_remote_transfer as root
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: close_remote_transfer as root
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: stop_service as root
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: delete_service as root
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: create_service as root
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: start_service as root
+2025-02-28 04:26:55: Client 127.0.0.1:63388 performed: status_service as root
+2025-02-28 04:26:55: Connection closed from 127.0.0.1:63388
+2025-02-28 04:32:01: Connection opened from 127.0.0.1:63413
+2025-02-28 04:32:01: Client 127.0.0.1:63413 performed: open_remote_transfer as root
+2025-02-28 04:32:02: Client 127.0.0.1:63413 performed: write_remote_transfer as root
+2025-02-28 04:32:02: Client 127.0.0.1:63413 performed: close_remote_transfer as root
+2025-02-28 04:32:02: Client 127.0.0.1:63413 performed: stop_service as root
+2025-02-28 04:32:02: Client 127.0.0.1:63413 performed: delete_service as root
+2025-02-28 04:32:02: Client 127.0.0.1:63413 performed: create_service as root
+2025-02-28 04:32:02: Client 127.0.0.1:63413 performed: start_service as root
+2025-02-28 04:32:02: Client 127.0.0.1:63413 performed: status_service as root
+2025-02-28 04:32:02: Connection closed from 127.0.0.1:63413
+2025-02-28 04:44:04: Connection opened from 127.0.0.1:63464
+2025-02-28 04:44:04: Client 127.0.0.1:63464 performed: open_remote_transfer as root
+2025-02-28 04:44:04: Client 127.0.0.1:63464 performed: write_remote_transfer as root
+2025-02-28 04:44:04: Client 127.0.0.1:63464 performed: close_remote_transfer as root
+2025-02-28 04:44:04: Client 127.0.0.1:63464 performed: stop_service as root
+2025-02-28 04:44:04: Client 127.0.0.1:63464 performed: delete_service as root
+2025-02-28 04:44:04: Client 127.0.0.1:63464 performed: create_service as root
+2025-02-28 04:44:05: Client 127.0.0.1:63464 performed: start_service as root
+2025-02-28 04:44:05: Client 127.0.0.1:63464 performed: status_service as root
+2025-02-28 04:44:05: Connection closed from 127.0.0.1:63464
+2025-02-28 05:15:40: Connection opened from 127.0.0.1:63623
+2025-02-28 05:15:40: Connection closed from 127.0.0.1:63623
+2025-02-28 05:16:09: Connection opened from 127.0.0.1:63627
+2025-02-28 05:16:09: Connection closed from 127.0.0.1:63627
+2025-02-28 05:18:34: Connection opened from 127.0.0.1:63638
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: open_remote_transfer as root
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: write_remote_transfer as root
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: close_remote_transfer as root
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: stop_service as root
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: delete_service as root
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: create_service as root
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: start_service as root
+2025-02-28 05:18:34: Client 127.0.0.1:63638 performed: status_service as root
+2025-02-28 05:18:34: Connection closed from 127.0.0.1:63638
+2025-02-28 05:24:53: Connection opened from 127.0.0.1:63678
+2025-02-28 05:24:53: Client 127.0.0.1:63678 performed: open_remote_transfer as root
+2025-02-28 05:24:53: Client 127.0.0.1:63678 performed: write_remote_transfer as root
+2025-02-28 05:24:53: Client 127.0.0.1:63678 performed: close_remote_transfer as root
+2025-02-28 05:24:53: Client 127.0.0.1:63678 performed: stop_service as root
+2025-02-28 05:24:53: Client 127.0.0.1:63678 performed: delete_service as root
+2025-02-28 05:24:53: Client 127.0.0.1:63678 performed: create_service as root
+2025-02-28 05:24:53: Client 127.0.0.1:63678 performed: start_service as root
+2025-02-28 05:24:54: Client 127.0.0.1:63678 performed: status_service as root
+2025-02-28 05:24:54: Connection closed from 127.0.0.1:63678
+2025-02-28 06:18:05: Connection opened from 127.0.0.1:63897
+2025-02-28 06:18:05: Client 127.0.0.1:63897 performed: open_remote_transfer as root
+2025-02-28 06:18:06: Client 127.0.0.1:63897 performed: write_remote_transfer as root
+2025-02-28 06:18:06: Client 127.0.0.1:63897 performed: close_remote_transfer as root
+2025-02-28 06:18:06: Client 127.0.0.1:63897 performed: stop_service as root
+2025-02-28 06:18:06: Client 127.0.0.1:63897 performed: delete_service as root
+2025-02-28 06:18:06: Client 127.0.0.1:63897 performed: create_service as root
+2025-02-28 06:18:06: Client 127.0.0.1:63897 performed: start_service as root
+2025-02-28 06:18:06: Client 127.0.0.1:63897 performed: status_service as root
+2025-02-28 06:18:06: Connection closed from 127.0.0.1:63897
+2025-02-28 06:50:34: Connection opened from 127.0.0.1:64097
+2025-02-28 06:50:34: Client 127.0.0.1:64097 performed: open_remote_transfer as root
+2025-02-28 06:50:35: Client 127.0.0.1:64097 performed: write_remote_transfer as root
+2025-02-28 06:50:35: Client 127.0.0.1:64097 performed: close_remote_transfer as root
+2025-02-28 06:50:35: Client 127.0.0.1:64097 performed: stop_service as root
+2025-02-28 06:50:35: Client 127.0.0.1:64097 performed: delete_service as root
+2025-02-28 06:50:35: Client 127.0.0.1:64097 performed: create_service as root
+2025-02-28 06:50:35: Client 127.0.0.1:64097 performed: start_service as root
+2025-02-28 06:50:35: Client 127.0.0.1:64097 performed: status_service as root
+2025-02-28 06:50:35: Connection closed from 127.0.0.1:64097
+2025-02-28 06:51:36: Connection opened from 127.0.0.1:64107
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: open_remote_transfer as root
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: write_remote_transfer as root
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: close_remote_transfer as root
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: stop_service as root
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: delete_service as root
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: create_service as root
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: start_service as root
+2025-02-28 06:51:36: Client 127.0.0.1:64107 performed: status_service as root
+2025-02-28 06:51:36: Connection closed from 127.0.0.1:64107
+2025-02-28 06:53:10: Connection opened from 127.0.0.1:64123
+2025-02-28 06:53:15: Connection closed from 127.0.0.1:64123
+2025-02-28 06:53:30: Connection opened from 127.0.0.1:64130
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: open_remote_transfer as root
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: write_remote_transfer as root
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: close_remote_transfer as root
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: stop_service as root
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: delete_service as root
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: create_service as root
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: start_service as root
+2025-02-28 06:53:30: Client 127.0.0.1:64130 performed: status_service as root
+2025-02-28 06:53:30: Connection closed from 127.0.0.1:64130
+2025-02-28 06:53:49: Connection opened from 127.0.0.1:64142
+2025-02-28 06:53:49: Client 127.0.0.1:64142 performed: open_remote_transfer as root
+2025-02-28 06:53:49: Client 127.0.0.1:64142 performed: write_remote_transfer as root
+2025-02-28 06:53:50: Client 127.0.0.1:64142 performed: close_remote_transfer as root
+2025-02-28 06:53:50: Client 127.0.0.1:64142 performed: stop_service as root
+2025-02-28 06:53:50: Client 127.0.0.1:64142 performed: delete_service as root
+2025-02-28 06:53:50: Client 127.0.0.1:64142 performed: create_service as root
+2025-02-28 06:53:50: Client 127.0.0.1:64142 performed: start_service as root
+2025-02-28 06:53:50: Client 127.0.0.1:64142 performed: status_service as root
+2025-02-28 06:53:50: Connection closed from 127.0.0.1:64142
+2025-02-28 06:58:25: Connection opened from 127.0.0.1:64201
+2025-02-28 06:58:26: Connection closed from 127.0.0.1:64201
+2025-02-28 06:58:26: Connection opened from 127.0.0.1:64202
+2025-02-28 06:58:26: Connection closed from 127.0.0.1:64202
+2025-02-28 07:05:42: Connection opened from 127.0.0.1:64239
+2025-02-28 07:05:42: Client 127.0.0.1:64239 performed: open_remote_transfer as root
+2025-02-28 07:05:42: Client 127.0.0.1:64239 performed: write_remote_transfer as root
+2025-02-28 07:05:42: Client 127.0.0.1:64239 performed: close_remote_transfer as root
+2025-02-28 07:05:42: Client 127.0.0.1:64239 performed: stop_service as root
+2025-02-28 07:05:42: Client 127.0.0.1:64239 performed: delete_service as root
+2025-02-28 07:05:42: Client 127.0.0.1:64239 performed: create_service as root
+2025-02-28 07:05:42: Client 127.0.0.1:64239 performed: start_service as root
+2025-02-28 07:05:43: Client 127.0.0.1:64239 performed: status_service as root
+2025-02-28 07:05:43: Connection closed from 127.0.0.1:64239
+2025-02-28 07:14:58: Connection opened from 127.0.0.1:64334
+2025-02-28 07:14:58: Client 127.0.0.1:64334 performed: open_remote_transfer as root
+2025-02-28 07:14:58: Client 127.0.0.1:64334 performed: write_remote_transfer as root
+2025-02-28 07:14:59: Client 127.0.0.1:64334 performed: close_remote_transfer as root
+2025-02-28 07:14:59: Client 127.0.0.1:64334 performed: stop_service as root
+2025-02-28 07:14:59: Client 127.0.0.1:64334 performed: delete_service as root
+2025-02-28 07:14:59: Client 127.0.0.1:64334 performed: create_service as root
+2025-02-28 07:14:59: Client 127.0.0.1:64334 performed: start_service as root
+2025-02-28 07:14:59: Client 127.0.0.1:64334 performed: status_service as root
+2025-02-28 07:14:59: Connection closed from 127.0.0.1:64334
+2025-02-28 07:15:31: Connection opened from 127.0.0.1:64339
+2025-02-28 07:15:32: Client 127.0.0.1:64339 performed: open_remote_transfer as root
+2025-02-28 07:15:32: Client 127.0.0.1:64339 performed: write_remote_transfer as root
+2025-02-28 07:15:32: Client 127.0.0.1:64339 performed: close_remote_transfer as root
+2025-02-28 07:15:33: Client 127.0.0.1:64339 performed: stop_service as root
+2025-02-28 07:15:33: Client 127.0.0.1:64339 performed: delete_service as root
+2025-02-28 07:15:33: Client 127.0.0.1:64339 performed: create_service as root
+2025-02-28 07:15:33: Client 127.0.0.1:64339 performed: start_service as root
+2025-02-28 07:15:33: Client 127.0.0.1:64339 performed: status_service as root
+2025-02-28 07:15:33: Connection closed from 127.0.0.1:64339
+2025-02-28 07:16:20: Connection opened from 127.0.0.1:64376
+2025-02-28 07:16:20: Client 127.0.0.1:64376 performed: open_remote_transfer as root
+2025-02-28 07:16:20: Client 127.0.0.1:64376 performed: write_remote_transfer as root
+2025-02-28 07:16:20: Client 127.0.0.1:64376 performed: close_remote_transfer as root
+2025-02-28 07:16:20: Client 127.0.0.1:64376 performed: stop_service as root
+2025-02-28 07:16:20: Client 127.0.0.1:64376 performed: delete_service as root
+2025-02-28 07:16:21: Client 127.0.0.1:64376 performed: create_service as root
+2025-02-28 07:16:21: Client 127.0.0.1:64376 performed: start_service as root
+2025-02-28 07:16:21: Client 127.0.0.1:64376 performed: status_service as root
+2025-02-28 07:16:21: Connection closed from 127.0.0.1:64376
+2025-02-28 07:17:20: Connection opened from 127.0.0.1:64417
+2025-02-28 07:17:20: Client 127.0.0.1:64417 performed: open_remote_transfer as root
+2025-02-28 07:17:21: Client 127.0.0.1:64417 performed: write_remote_transfer as root
+2025-02-28 07:17:21: Client 127.0.0.1:64417 performed: close_remote_transfer as root
+2025-02-28 07:17:21: Client 127.0.0.1:64417 performed: stop_service as root
+2025-02-28 07:17:21: Client 127.0.0.1:64417 performed: delete_service as root
+2025-02-28 07:17:21: Client 127.0.0.1:64417 performed: create_service as root
+2025-02-28 07:17:21: Client 127.0.0.1:64417 performed: start_service as root
+2025-02-28 07:17:21: Client 127.0.0.1:64417 performed: status_service as root
+2025-02-28 07:17:21: Connection closed from 127.0.0.1:64417
+2025-02-28 07:17:51: Connection opened from 127.0.0.1:64440
+2025-02-28 07:17:51: Client 127.0.0.1:64440 performed: open_remote_transfer as root
+2025-02-28 07:17:52: Client 127.0.0.1:64440 performed: write_remote_transfer as root
+2025-02-28 07:17:52: Client 127.0.0.1:64440 performed: close_remote_transfer as root
+2025-02-28 07:17:52: Client 127.0.0.1:64440 performed: stop_service as root
+2025-02-28 07:17:52: Client 127.0.0.1:64440 performed: delete_service as root
+2025-02-28 07:17:52: Client 127.0.0.1:64440 performed: create_service as root
+2025-02-28 07:17:52: Client 127.0.0.1:64440 performed: start_service as root
+2025-02-28 07:17:52: Client 127.0.0.1:64440 performed: status_service as root
+2025-02-28 07:17:52: Connection closed from 127.0.0.1:64440
+2025-02-28 07:19:20: Connection opened from 127.0.0.1:64543
+2025-02-28 07:19:20: Client 127.0.0.1:64543 performed: open_remote_transfer as root
+2025-02-28 07:19:21: Client 127.0.0.1:64543 performed: write_remote_transfer as root
+2025-02-28 07:19:21: Client 127.0.0.1:64543 performed: close_remote_transfer as root
+2025-02-28 07:19:21: Client 127.0.0.1:64543 performed: stop_service as root
+2025-02-28 07:19:21: Client 127.0.0.1:64543 performed: delete_service as root
+2025-02-28 07:19:21: Client 127.0.0.1:64543 performed: create_service as root
+2025-02-28 07:19:21: Client 127.0.0.1:64543 performed: start_service as root
+2025-02-28 07:19:21: Client 127.0.0.1:64543 performed: status_service as root
+2025-02-28 07:19:21: Connection closed from 127.0.0.1:64543
+2025-02-28 07:21:38: Connection opened from 127.0.0.1:64637
+2025-02-28 07:21:38: Client 127.0.0.1:64637 performed: open_remote_transfer as root
+2025-02-28 07:21:38: Client 127.0.0.1:64637 performed: write_remote_transfer as root
+2025-02-28 07:21:38: Client 127.0.0.1:64637 performed: close_remote_transfer as root
+2025-02-28 07:21:38: Client 127.0.0.1:64637 performed: stop_service as root
+2025-02-28 07:21:38: Client 127.0.0.1:64637 performed: delete_service as root
+2025-02-28 07:21:38: Client 127.0.0.1:64637 performed: create_service as root
+2025-02-28 07:21:38: Client 127.0.0.1:64637 performed: start_service as root
+2025-02-28 07:21:39: Client 127.0.0.1:64637 performed: status_service as root
+2025-02-28 07:21:39: Connection closed from 127.0.0.1:64637
+2025-02-28 07:26:45: Connection opened from 127.0.0.1:64893
+2025-02-28 07:26:45: Client 127.0.0.1:64893 performed: open_remote_transfer as root
+2025-02-28 07:26:45: Client 127.0.0.1:64893 performed: write_remote_transfer as root
+2025-02-28 07:26:45: Client 127.0.0.1:64893 performed: close_remote_transfer as root
+2025-02-28 07:26:45: Client 127.0.0.1:64893 performed: stop_service as root
+2025-02-28 07:26:46: Client 127.0.0.1:64893 performed: delete_service as root
+2025-02-28 07:26:46: Client 127.0.0.1:64893 performed: create_service as root
+2025-02-28 07:26:46: Client 127.0.0.1:64893 performed: start_service as root
+2025-02-28 07:26:46: Client 127.0.0.1:64893 performed: status_service as root
+2025-02-28 07:26:46: Connection closed from 127.0.0.1:64893
+2025-02-28 07:28:50: Connection opened from 127.0.0.1:64985
+2025-02-28 07:28:50: Client 127.0.0.1:64985 performed: open_remote_transfer as root
+2025-02-28 07:28:50: Client 127.0.0.1:64985 performed: write_remote_transfer as root
+2025-02-28 07:28:50: Client 127.0.0.1:64985 performed: close_remote_transfer as root
+2025-02-28 07:28:51: Client 127.0.0.1:64985 performed: stop_service as root
+2025-02-28 07:28:51: Client 127.0.0.1:64985 performed: delete_service as root
+2025-02-28 07:28:51: Client 127.0.0.1:64985 performed: run_cmd as root
+2025-02-28 07:28:57: Client 127.0.0.1:64985 performed: start_service as root
+2025-02-28 07:28:57: Client 127.0.0.1:64985 performed: status_service as root
+2025-02-28 07:28:57: Connection closed from 127.0.0.1:64985
+2025-02-28 07:29:15: Connection opened from 127.0.0.1:64998
+2025-02-28 07:29:16: Client 127.0.0.1:64998 performed: open_remote_transfer as root
+2025-02-28 07:29:16: Client 127.0.0.1:64998 performed: write_remote_transfer as root
+2025-02-28 07:29:16: Client 127.0.0.1:64998 performed: close_remote_transfer as root
+2025-02-28 07:29:16: Client 127.0.0.1:64998 performed: stop_service as root
+2025-02-28 07:29:16: Client 127.0.0.1:64998 performed: delete_service as root
+2025-02-28 07:29:16: Client 127.0.0.1:64998 performed: run_cmd as root
+2025-02-28 07:30:07: Connection closed from 127.0.0.1:64998
+2025-02-28 07:30:15: Connection opened from 127.0.0.1:65004
+2025-02-28 07:30:15: Client 127.0.0.1:65004 performed: open_remote_transfer as root
+2025-02-28 07:30:16: Client 127.0.0.1:65004 performed: write_remote_transfer as root
+2025-02-28 07:30:16: Client 127.0.0.1:65004 performed: close_remote_transfer as root
+2025-02-28 07:30:16: Client 127.0.0.1:65004 performed: stop_service as root
+2025-02-28 07:30:16: Client 127.0.0.1:65004 performed: delete_service as root
+2025-02-28 07:30:16: Client 127.0.0.1:65004 performed: create_service as root
+2025-02-28 07:30:16: Client 127.0.0.1:65004 performed: start_service as root
+2025-02-28 07:30:16: Client 127.0.0.1:65004 performed: status_service as root
+2025-02-28 07:30:16: Connection closed from 127.0.0.1:65004
+2025-02-28 07:31:03: Connection opened from 127.0.0.1:65042
+2025-02-28 07:31:09: Connection closed from 127.0.0.1:65042
+2025-02-28 07:31:27: Connection opened from 127.0.0.1:65050
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: open_remote_transfer as root
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: write_remote_transfer as root
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: close_remote_transfer as root
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: stop_service as root
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: delete_service as root
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: create_service as root
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: start_service as root
+2025-02-28 07:31:27: Client 127.0.0.1:65050 performed: status_service as root
+2025-02-28 07:31:28: Connection closed from 127.0.0.1:65050
+2025-02-28 07:32:10: Connection opened from 127.0.0.1:65072
+2025-02-28 07:32:16: Connection closed from 127.0.0.1:65072
+2025-02-28 07:32:28: Connection opened from 127.0.0.1:65084
+2025-02-28 07:32:28: Connection closed from 127.0.0.1:65084
+2025-02-28 07:32:28: Connection opened from 127.0.0.1:65087
+2025-02-28 07:32:28: Connection closed from 127.0.0.1:65087
+2025-02-28 07:36:31: Connection opened from 127.0.0.1:65244
+2025-02-28 07:36:31: Connection closed from 127.0.0.1:65244
+2025-02-28 07:36:32: Connection opened from 127.0.0.1:65245
+2025-02-28 07:36:32: Connection closed from 127.0.0.1:65245
+2025-02-28 07:43:27: Connection opened from 127.0.0.1:65437
+2025-02-28 07:43:27: Client 127.0.0.1:65437 performed: open_remote_transfer as root
+2025-02-28 07:43:28: Client 127.0.0.1:65437 performed: write_remote_transfer as root
+2025-02-28 07:43:28: Client 127.0.0.1:65437 performed: close_remote_transfer as root
+2025-02-28 07:43:28: Client 127.0.0.1:65437 performed: stop_service as root
+2025-02-28 07:43:28: Client 127.0.0.1:65437 performed: delete_service as root
+2025-02-28 07:43:28: Client 127.0.0.1:65437 performed: create_service as root
+2025-02-28 07:43:28: Client 127.0.0.1:65437 performed: start_service as root
+2025-02-28 07:43:28: Client 127.0.0.1:65437 performed: status_service as root
+2025-02-28 07:43:28: Connection closed from 127.0.0.1:65437
+2025-02-28 07:44:20: Connection opened from 127.0.0.1:65470
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: open_remote_transfer as root
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: write_remote_transfer as root
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: close_remote_transfer as root
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: stop_service as root
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: delete_service as root
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: create_service as root
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: start_service as root
+2025-02-28 07:44:20: Client 127.0.0.1:65470 performed: status_service as root
+2025-02-28 07:44:21: Connection closed from 127.0.0.1:65470
+2026-02-04 09:27:34: Connection opened from 127.0.0.1:55006
+2026-02-04 09:27:35: Client 127.0.0.1:55006 performed: run_cmd as root
+2026-02-04 09:27:35: Connection closed from 127.0.0.1:55006
+2026-02-04 09:28:00: Connection opened from 127.0.0.1:46970
+2026-02-04 09:28:01: Client 127.0.0.1:46970 performed: run_cmd as root
+2026-02-04 09:28:01: Connection closed from 127.0.0.1:46970
+2026-02-04 09:30:59: Connection opened from 127.0.0.1:38758
+2026-02-04 09:30:59: Client 127.0.0.1:38758 performed: run_cmd as root
+2026-02-04 09:30:59: Connection closed from 127.0.0.1:38758
+2026-03-07 09:54:24: Connection opened from 127.0.0.1:42938
+2026-03-07 09:54:25: Connection closed from 127.0.0.1:42938
+2026-03-07 09:54:46: Connection opened from 127.0.0.1:43500
+2026-03-07 09:54:48: Connection closed from 127.0.0.1:43500
+2026-03-07 09:55:19: Connection opened from 127.0.0.1:46616
+2026-03-07 09:55:19: Client 127.0.0.1:46616 performed: list_services as root
+2026-03-07 09:55:19: Connection closed from 127.0.0.1:46616
+2026-03-07 09:55:35: Connection opened from 127.0.0.1:57614
+2026-03-07 09:55:35: Client 127.0.0.1:57614 performed: list_services as root
+2026-03-07 09:55:35: Connection closed from 127.0.0.1:57614
+2026-03-07 09:55:45: Connection opened from 127.0.0.1:43884
+2026-03-07 09:55:45: Client 127.0.0.1:43884 performed: list_services as root
+2026-03-07 09:55:45: Connection closed from 127.0.0.1:43884
+2026-03-07 09:58:58: Connection opened from 127.0.0.1:43966
+2026-03-07 09:58:58: Client 127.0.0.1:43966 performed: list_services as root
+2026-03-07 09:58:58: Connection closed from 127.0.0.1:43966
+2026-03-07 10:00:13: Connection opened from 127.0.0.1:42396
+2026-03-07 10:00:13: Client 127.0.0.1:42396 performed: list_services as root
+2026-03-07 10:00:13: Connection closed from 127.0.0.1:42396
+2026-03-07 10:02:57: Connection opened from 127.0.0.1:50384
+2026-03-07 10:02:57: Client 127.0.0.1:50384 performed: list_services as root
+2026-03-07 10:02:57: Connection closed from 127.0.0.1:50384
+2026-03-07 10:03:58: Connection opened from 127.0.0.1:53854
+2026-03-07 10:03:59: Client 127.0.0.1:53854 performed: list_services as root
+2026-03-07 10:03:59: Connection closed from 127.0.0.1:53854
+2026-03-07 10:04:13: Connection opened from 127.0.0.1:46620
+2026-03-07 10:04:13: Client 127.0.0.1:46620 performed: list_services as root
+2026-03-07 10:04:13: Connection closed from 127.0.0.1:46620
+2026-03-07 10:04:38: Connection opened from 127.0.0.1:43712
+2026-03-07 10:04:38: Client 127.0.0.1:43712 performed: list_services as root
+2026-03-07 10:04:38: Connection closed from 127.0.0.1:43712
+2026-03-07 10:05:10: Connection opened from 127.0.0.1:57614
+2026-03-07 10:05:10: Client 127.0.0.1:57614 performed: list_services as root
+2026-03-07 10:05:10: Connection closed from 127.0.0.1:57614
+2026-03-07 10:08:39: Connection opened from 127.0.0.1:40010
+2026-03-07 10:08:39: Client 127.0.0.1:40010 performed: list_services as root
+2026-03-07 10:08:39: Connection closed from 127.0.0.1:40010
+2026-03-07 10:51:26: Connection opened from 127.0.0.1:54698
+2026-03-07 10:51:26: Client 127.0.0.1:54698 performed: list_services as root
+2026-03-07 10:51:26: Connection closed from 127.0.0.1:54698
+2026-03-07 10:51:33: Connection opened from 127.0.0.1:39412
+2026-03-07 10:51:33: Client 127.0.0.1:39412 performed: list_services as root
+2026-03-07 10:51:33: Connection closed from 127.0.0.1:39412
+2026-03-07 11:04:04: Connection opened from 127.0.0.1:56776
+2026-03-07 11:04:05: Client 127.0.0.1:56776 performed: list_services as root
+2026-03-07 11:04:05: Connection closed from 127.0.0.1:56776
+2026-03-07 11:16:26: Connection opened from 127.0.0.1:52018
+2026-03-07 11:16:26: Client 127.0.0.1:52018 performed: list_services as root
+2026-03-07 11:16:26: Connection closed from 127.0.0.1:52018
+2026-03-07 11:22:28: Connection opened from 127.0.0.1:38416
+2026-03-07 11:22:28: Client 127.0.0.1:38416 performed: list_services as root
+2026-03-07 11:22:28: Connection closed from 127.0.0.1:38416
+2026-03-07 11:22:52: Connection opened from 127.0.0.1:40698
+2026-03-07 11:22:52: Client 127.0.0.1:40698 performed: list_services as root
+2026-03-07 11:22:52: Connection closed from 127.0.0.1:40698
+2026-03-07 11:24:33: Connection opened from 127.0.0.1:60722
+2026-03-07 11:24:34: Client 127.0.0.1:60722 performed: list_services as root
+2026-03-07 11:24:34: Connection closed from 127.0.0.1:60722
+2026-03-07 11:28:42: Connection opened from 127.0.0.1:48388
+2026-03-07 11:28:42: Client 127.0.0.1:48388 performed: list_services as root
+2026-03-07 11:28:42: Connection closed from 127.0.0.1:48388
+2026-03-07 11:29:56: Connection opened from 127.0.0.1:45678
+2026-03-07 11:29:57: Client 127.0.0.1:45678 performed: list_services as root
+2026-03-07 11:29:57: Connection closed from 127.0.0.1:45678
+2026-03-07 11:36:23: Connection opened from 127.0.0.1:46068
+2026-03-07 11:36:23: Client 127.0.0.1:46068 performed: list_services as root
+2026-03-07 11:36:23: Connection closed from 127.0.0.1:46068
+2026-03-07 11:36:51: Connection opened from 127.0.0.1:51352
+2026-03-07 11:36:51: Client 127.0.0.1:51352 performed: list_services as root
+2026-03-07 11:36:51: Connection closed from 127.0.0.1:51352
+2026-03-07 11:37:04: Connection opened from 127.0.0.1:36328
+2026-03-07 11:37:04: Client 127.0.0.1:36328 performed: list_services as root
+2026-03-07 11:37:04: Connection closed from 127.0.0.1:36328
+2026-03-07 11:37:13: Connection opened from 127.0.0.1:43854
+2026-03-07 11:37:13: Client 127.0.0.1:43854 performed: list_services as root
+2026-03-07 11:37:13: Connection closed from 127.0.0.1:43854
+2026-03-07 11:38:38: Connection opened from 127.0.0.1:42354
+2026-03-07 11:38:38: Client 127.0.0.1:42354 performed: list_services as root
+2026-03-07 11:38:38: Connection closed from 127.0.0.1:42354
+2026-03-07 11:38:59: Connection opened from 127.0.0.1:57592
+2026-03-07 11:38:59: Client 127.0.0.1:57592 performed: status_service as root
+2026-03-07 11:38:59: Connection closed from 127.0.0.1:57592
+2026-03-07 12:34:01: Connection opened from 127.0.0.1:39026
+2026-03-07 12:34:01: Client 127.0.0.1:39026 performed: list_services as root
+2026-03-07 12:34:01: Connection closed from 127.0.0.1:39026
+2026-03-07 12:36:36: Connection opened from 127.0.0.1:59082
+2026-03-07 12:36:37: Client 127.0.0.1:59082 performed: open_remote_transfer as root
+2026-03-07 12:36:37: Client 127.0.0.1:59082 performed: delete_service as root
+2026-03-07 12:36:37: Client 127.0.0.1:59082 performed: create_service as root
+2026-03-07 12:36:37: Client 127.0.0.1:59082 performed: start_service as root
+2026-03-07 12:36:37: Client 127.0.0.1:59082 performed: status_service as root
+2026-03-07 12:36:37: Connection closed from 127.0.0.1:59082
+2026-03-07 12:39:31: Connection opened from 127.0.0.1:33304
+2026-03-07 12:39:31: Client 127.0.0.1:33304 performed: open_remote_transfer as root
+2026-03-07 12:39:32: Client 127.0.0.1:33304 performed: write_remote_transfer as root
+2026-03-07 12:39:32: Client 127.0.0.1:33304 performed: close_remote_transfer as root
+2026-03-07 12:39:32: Client 127.0.0.1:33304 performed: delete_service as root
+2026-03-07 12:39:32: Client 127.0.0.1:33304 performed: create_service as root
+2026-03-07 12:39:32: Client 127.0.0.1:33304 performed: start_service as root
+2026-03-07 12:39:32: Client 127.0.0.1:33304 performed: status_service as root
+2026-03-07 12:39:32: Connection closed from 127.0.0.1:33304
+2026-03-07 12:39:49: Connection opened from 127.0.0.1:60250
+2026-03-07 12:39:49: Client 127.0.0.1:60250 performed: list_services as root
+2026-03-07 12:39:49: Connection closed from 127.0.0.1:60250
+2026-03-07 12:40:23: Connection opened from 127.0.0.1:47652
+2026-03-07 12:40:23: Client 127.0.0.1:47652 performed: stop_service as root
+2026-03-07 12:40:23: Connection closed from 127.0.0.1:47652
+2026-03-07 12:40:26: Connection opened from 127.0.0.1:47662
+2026-03-07 12:40:26: Client 127.0.0.1:47662 performed: list_services as root
+2026-03-07 12:40:26: Connection closed from 127.0.0.1:47662
+2026-03-07 12:40:38: Connection opened from 127.0.0.1:41338
+2026-03-07 12:40:38: Client 127.0.0.1:41338 performed: start_service as root
+2026-03-07 12:40:38: Connection closed from 127.0.0.1:41338
+2026-03-07 12:40:50: Connection opened from 127.0.0.1:41490
+2026-03-07 12:40:50: Client 127.0.0.1:41490 performed: list_services as root
+2026-03-07 12:40:50: Connection closed from 127.0.0.1:41490
+2026-03-07 12:40:54: Connection opened from 127.0.0.1:54236
+2026-03-07 12:40:55: Client 127.0.0.1:54236 performed: status_service as root
+2026-03-07 12:40:55: Connection closed from 127.0.0.1:54236
+2026-03-07 12:42:05: Connection opened from 127.0.0.1:51014
+2026-03-07 12:42:06: Client 127.0.0.1:51014 performed: stop_service as root
+2026-03-07 12:42:06: Connection closed from 127.0.0.1:51014
+2026-03-07 12:42:07: Connection opened from 127.0.0.1:51020
+2026-03-07 12:42:07: Client 127.0.0.1:51020 performed: list_services as root
+2026-03-07 12:42:07: Connection closed from 127.0.0.1:51020
+2026-03-07 18:58:33: Connection opened from 127.0.0.1:34330
+2026-03-07 18:58:34: Client 127.0.0.1:34330 performed: list_services as root
+2026-03-07 18:58:34: Connection closed from 127.0.0.1:34330
+2026-03-07 18:58:44: Connection opened from 127.0.0.1:36762
+2026-03-07 18:58:45: Client 127.0.0.1:36762 performed: start_service as root
+2026-03-07 18:58:45: Connection closed from 127.0.0.1:36762
+2026-03-07 18:58:48: Connection opened from 127.0.0.1:60620
+2026-03-07 18:58:49: Client 127.0.0.1:60620 performed: list_services as root
+2026-03-07 18:58:49: Connection closed from 127.0.0.1:60620
+2026-03-07 19:01:08: Connection opened from 127.0.0.1:33362
+2026-03-07 19:01:08: Client 127.0.0.1:33362 performed: stop_service as root
+2026-03-07 19:01:08: Connection closed from 127.0.0.1:33362
+2026-03-07 19:01:14: Connection opened from 127.0.0.1:59562
+2026-03-07 19:01:14: Client 127.0.0.1:59562 performed: list_services as root
+2026-03-07 19:01:14: Connection closed from 127.0.0.1:59562
+2026-03-07 19:01:55: Connection opened from 127.0.0.1:60032
+2026-03-07 19:01:55: Client 127.0.0.1:60032 performed: status_service as root
+2026-03-07 19:01:55: Connection closed from 127.0.0.1:60032
+2026-03-07 19:02:01: Connection opened from 127.0.0.1:54270
+2026-03-07 19:02:01: Client 127.0.0.1:54270 performed: status_service as root
+2026-03-07 19:02:01: Connection closed from 127.0.0.1:54270
+2026-03-08 12:02:16: Connection opened from 127.0.0.1:52694
+2026-03-08 12:02:16: Client 127.0.0.1:52694 performed: list_services as root
+2026-03-08 12:02:16: Connection closed from 127.0.0.1:52694
+2026-03-08 12:06:27: Connection opened from 127.0.0.1:50504
+2026-03-08 12:06:27: Client 127.0.0.1:50504 performed: start_service as root
+2026-03-08 12:06:27: Connection closed from 127.0.0.1:50504
+2026-03-08 12:07:20: Connection opened from 127.0.0.1:37564
+2026-03-08 12:07:21: Client 127.0.0.1:37564 performed: list_services as root
+2026-03-08 12:07:21: Connection closed from 127.0.0.1:37564
+2026-03-08 12:07:28: Connection opened from 127.0.0.1:59778
+2026-03-08 12:07:28: Client 127.0.0.1:59778 performed: stop_service as root
+2026-03-08 12:07:28: Connection closed from 127.0.0.1:59778
+2026-03-08 12:07:31: Connection opened from 127.0.0.1:59792
+2026-03-08 12:07:31: Client 127.0.0.1:59792 performed: list_services as root
+2026-03-08 12:07:31: Connection closed from 127.0.0.1:59792
+2026-03-08 12:12:46: Connection opened from 127.0.0.1:44578
+2026-03-08 12:12:46: Client 127.0.0.1:44578 performed: open_remote_transfer as root
+2026-03-08 12:12:46: Client 127.0.0.1:44578 performed: write_remote_transfer as root
+2026-03-08 12:12:46: Client 127.0.0.1:44578 performed: close_remote_transfer as root
+2026-03-08 12:12:46: Client 127.0.0.1:44578 performed: delete_service as root
+2026-03-08 12:12:46: Client 127.0.0.1:44578 performed: create_service as root
+2026-03-08 12:12:46: Client 127.0.0.1:44578 performed: start_service as root
+2026-03-08 12:12:46: Client 127.0.0.1:44578 performed: status_service as root
+2026-03-08 12:12:46: Connection closed from 127.0.0.1:44578
+2026-03-08 12:12:56: Connection opened from 127.0.0.1:35120
+2026-03-08 12:12:56: Client 127.0.0.1:35120 performed: list_services as root
+2026-03-08 12:12:56: Connection closed from 127.0.0.1:35120
+2026-03-08 12:13:33: Connection opened from 127.0.0.1:60434
+2026-03-08 12:13:33: Client 127.0.0.1:60434 performed: open_remote_transfer as root
+2026-03-08 12:13:33: Client 127.0.0.1:60434 performed: write_remote_transfer as root
+2026-03-08 12:13:33: Client 127.0.0.1:60434 performed: close_remote_transfer as root
+2026-03-08 12:13:33: Client 127.0.0.1:60434 performed: delete_service as root
+2026-03-08 12:13:34: Client 127.0.0.1:60434 performed: create_service as root
+2026-03-08 12:13:34: Client 127.0.0.1:60434 performed: start_service as root
+2026-03-08 12:13:34: Client 127.0.0.1:60434 performed: status_service as root
+2026-03-08 12:13:34: Connection closed from 127.0.0.1:60434
+2026-03-08 12:13:39: Connection opened from 127.0.0.1:50936
+2026-03-08 12:13:39: Client 127.0.0.1:50936 performed: list_services as root
+2026-03-08 12:13:39: Connection closed from 127.0.0.1:50936
+2026-03-08 12:13:44: Connection opened from 127.0.0.1:50946
+2026-03-08 12:13:44: Client 127.0.0.1:50946 performed: list_services as root
+2026-03-08 12:13:44: Connection closed from 127.0.0.1:50946
+2026-03-08 12:14:33: Connection opened from 127.0.0.1:36260
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: open_remote_transfer as root
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: write_remote_transfer as root
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: close_remote_transfer as root
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: stop_service as root
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: delete_service as root
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: create_service as root
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: start_service as root
+2026-03-08 12:14:33: Client 127.0.0.1:36260 performed: status_service as root
+2026-03-08 12:14:33: Connection closed from 127.0.0.1:36260
+2026-03-08 12:14:39: Connection opened from 127.0.0.1:37224
+2026-03-08 12:14:39: Client 127.0.0.1:37224 performed: list_services as root
+2026-03-08 12:14:39: Connection closed from 127.0.0.1:37224
+2026-03-08 12:14:43: Connection opened from 127.0.0.1:37240
+2026-03-08 12:14:43: Client 127.0.0.1:37240 performed: status_service as root
+2026-03-08 12:14:43: Connection closed from 127.0.0.1:37240
+2026-03-08 12:14:48: Connection opened from 127.0.0.1:46674
+2026-03-08 12:14:48: Client 127.0.0.1:46674 performed: status_service as root
+2026-03-08 12:14:48: Connection closed from 127.0.0.1:46674
+2026-03-08 12:14:51: Connection opened from 127.0.0.1:46682
+2026-03-08 12:14:51: Client 127.0.0.1:46682 performed: list_services as root
+2026-03-08 12:14:51: Connection closed from 127.0.0.1:46682
+2026-03-08 12:14:53: Connection opened from 127.0.0.1:46692
+2026-03-08 12:14:53: Client 127.0.0.1:46692 performed: status_service as root
+2026-03-08 12:14:53: Connection closed from 127.0.0.1:46692
+2026-03-08 12:15:53: Connection opened from 127.0.0.1:41072
+2026-03-08 12:15:53: Client 127.0.0.1:41072 performed: status_service as root
+2026-03-08 12:15:53: Connection closed from 127.0.0.1:41072
+2026-03-08 12:15:57: Connection opened from 127.0.0.1:49082
+2026-03-08 12:15:57: Client 127.0.0.1:49082 performed: list_services as root
+2026-03-08 12:15:57: Connection closed from 127.0.0.1:49082
+2026-03-08 12:15:59: Connection opened from 127.0.0.1:49098
+2026-03-08 12:15:59: Client 127.0.0.1:49098 performed: status_service as root
+2026-03-08 12:15:59: Connection closed from 127.0.0.1:49098
+2026-03-08 12:16:36: Connection opened from 127.0.0.1:48164
+2026-03-08 12:16:36: Client 127.0.0.1:48164 performed: stop_service as root
+2026-03-08 12:16:36: Connection closed from 127.0.0.1:48164
+2026-03-08 12:16:37: Connection opened from 127.0.0.1:60640
+2026-03-08 12:16:38: Client 127.0.0.1:60640 performed: list_services as root
+2026-03-08 12:16:38: Connection closed from 127.0.0.1:60640
+2026-03-08 12:16:39: Connection opened from 127.0.0.1:60652
+2026-03-08 12:16:39: Client 127.0.0.1:60652 performed: status_service as root
+2026-03-08 12:16:39: Connection closed from 127.0.0.1:60652
+2026-03-08 12:18:44: Connection opened from 127.0.0.1:60968
+2026-03-08 12:18:44: Client 127.0.0.1:60968 performed: status_service as root
+2026-03-08 12:18:44: Connection closed from 127.0.0.1:60968
+2026-03-08 12:19:36: Connection opened from 127.0.0.1:43772
+2026-03-08 12:19:36: Client 127.0.0.1:43772 performed: status_service as root
+2026-03-08 12:19:36: Connection closed from 127.0.0.1:43772
+2026-03-08 12:22:31: Connection opened from 127.0.0.1:46162
+2026-03-08 12:22:31: Client 127.0.0.1:46162 performed: status_service as root
+2026-03-08 12:22:31: Client 127.0.0.1:46162 performed: status_service as root
+2026-03-08 12:22:31: Connection closed from 127.0.0.1:46162
+2026-03-08 12:26:37: Connection opened from 127.0.0.1:34814
+2026-03-08 12:26:37: Client 127.0.0.1:34814 performed: status_service as root
+2026-03-08 12:26:37: Client 127.0.0.1:34814 performed: status_service as root
+2026-03-08 12:26:37: Connection closed from 127.0.0.1:34814
+2026-03-08 12:27:20: Connection opened from 127.0.0.1:57840
+2026-03-08 12:27:20: Client 127.0.0.1:57840 performed: status_service as root
+2026-03-08 12:27:21: Client 127.0.0.1:57840 performed: status_service as root
+2026-03-08 12:27:21: Connection closed from 127.0.0.1:57840
+2026-03-08 12:28:18: Connection opened from 127.0.0.1:33106
+2026-03-08 12:28:18: Client 127.0.0.1:33106 performed: status_service as root
+2026-03-08 12:28:18: Client 127.0.0.1:33106 performed: status_service as root
+2026-03-08 12:28:18: Connection closed from 127.0.0.1:33106
+2026-03-08 12:28:48: Connection opened from 127.0.0.1:54950
+2026-03-08 12:28:48: Client 127.0.0.1:54950 performed: status_service as root
+2026-03-08 12:28:48: Client 127.0.0.1:54950 performed: status_service as root
+2026-03-08 12:28:48: Connection closed from 127.0.0.1:54950
+2026-03-08 12:29:20: Connection opened from 127.0.0.1:53226
+2026-03-08 12:29:20: Client 127.0.0.1:53226 performed: list_services as root
+2026-03-08 12:29:20: Connection closed from 127.0.0.1:53226
+2026-03-08 12:29:22: Connection opened from 127.0.0.1:53232
+2026-03-08 12:29:23: Client 127.0.0.1:53232 performed: status_service as root
+2026-03-08 12:29:23: Connection closed from 127.0.0.1:53232
+2026-03-08 12:29:23: Connection opened from 127.0.0.1:53246
+2026-03-08 12:29:23: Client 127.0.0.1:53246 performed: status_service as root
+2026-03-08 12:29:23: Connection closed from 127.0.0.1:53246
+2026-03-08 12:30:46: Connection opened from 127.0.0.1:40730
+2026-03-08 12:30:46: Client 127.0.0.1:40730 performed: open_remote_transfer as root
+2026-03-08 12:30:46: Client 127.0.0.1:40730 performed: write_remote_transfer as root
+2026-03-08 12:30:46: Client 127.0.0.1:40730 performed: close_remote_transfer as root
+2026-03-08 12:30:46: Client 127.0.0.1:40730 performed: stop_service as root
+2026-03-08 12:30:46: Client 127.0.0.1:40730 performed: delete_service as root
+2026-03-08 12:30:46: Client 127.0.0.1:40730 performed: create_service as root
+2026-03-08 12:30:46: Client 127.0.0.1:40730 performed: start_service as root
+2026-03-08 12:30:47: Client 127.0.0.1:40730 performed: status_service as root
+2026-03-08 12:30:47: Connection closed from 127.0.0.1:40730
+2026-03-08 12:30:52: Connection opened from 127.0.0.1:39120
+2026-03-08 12:30:53: Client 127.0.0.1:39120 performed: list_services as root
+2026-03-08 12:30:53: Connection closed from 127.0.0.1:39120
+2026-03-08 12:30:56: Connection opened from 127.0.0.1:39124
+2026-03-08 12:30:56: Client 127.0.0.1:39124 performed: list_services as root
+2026-03-08 12:30:56: Connection closed from 127.0.0.1:39124
+2026-03-08 12:32:26: Connection opened from 127.0.0.1:37244
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: open_remote_transfer as root
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: write_remote_transfer as root
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: close_remote_transfer as root
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: stop_service as root
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: delete_service as root
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: create_service as root
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: start_service as root
+2026-03-08 12:32:26: Client 127.0.0.1:37244 performed: status_service as root
+2026-03-08 12:32:26: Connection closed from 127.0.0.1:37244
+2026-03-08 12:37:56: Connection opened from 127.0.0.1:36422
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: open_remote_transfer as root
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: write_remote_transfer as root
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: close_remote_transfer as root
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: stop_service as root
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: delete_service as root
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: create_service as root
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: start_service as root
+2026-03-08 12:37:56: Client 127.0.0.1:36422 performed: status_service as root
+2026-03-08 12:37:56: Connection closed from 127.0.0.1:36422
+2026-03-08 12:38:00: Connection opened from 127.0.0.1:35512
+2026-03-08 12:38:00: Client 127.0.0.1:35512 performed: list_services as root
+2026-03-08 12:38:00: Connection closed from 127.0.0.1:35512
+2026-03-08 12:38:03: Connection opened from 127.0.0.1:35514
+2026-03-08 12:38:03: Client 127.0.0.1:35514 performed: status_service as root
+2026-03-08 12:38:03: Connection closed from 127.0.0.1:35514
+2026-03-08 12:38:10: Connection opened from 127.0.0.1:56024
+2026-03-08 12:38:11: Client 127.0.0.1:56024 performed: list_services as root
+2026-03-08 12:38:11: Connection closed from 127.0.0.1:56024
+2026-03-08 12:38:58: Connection opened from 127.0.0.1:46322
+2026-03-08 12:38:58: Client 127.0.0.1:46322 performed: list_services as root
+2026-03-08 12:38:58: Connection closed from 127.0.0.1:46322
+2026-03-08 12:39:01: Connection opened from 127.0.0.1:46336
+2026-03-08 12:39:02: Client 127.0.0.1:46336 performed: status_service as root
+2026-03-08 12:39:02: Connection closed from 127.0.0.1:46336
+2026-03-08 12:54:11: Connection opened from 127.0.0.1:32798
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: open_remote_transfer as root
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: write_remote_transfer as root
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: close_remote_transfer as root
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: stop_service as root
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: delete_service as root
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: create_service as root
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: start_service as root
+2026-03-08 12:54:11: Client 127.0.0.1:32798 performed: status_service as root
+2026-03-08 12:54:11: Connection closed from 127.0.0.1:32798
+2026-03-08 12:54:15: Connection opened from 127.0.0.1:32812
+2026-03-08 12:54:15: Client 127.0.0.1:32812 performed: list_services as root
+2026-03-08 12:54:15: Connection closed from 127.0.0.1:32812
+2026-03-08 12:55:20: Connection opened from 127.0.0.1:44856
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: open_remote_transfer as root
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: write_remote_transfer as root
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: close_remote_transfer as root
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: stop_service as root
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: delete_service as root
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: create_service as root
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: start_service as root
+2026-03-08 12:55:20: Client 127.0.0.1:44856 performed: status_service as root
+2026-03-08 12:55:20: Connection closed from 127.0.0.1:44856
+2026-03-08 12:55:28: Connection opened from 127.0.0.1:54870
+2026-03-08 12:55:28: Client 127.0.0.1:54870 performed: list_services as root
+2026-03-08 12:55:28: Connection closed from 127.0.0.1:54870
+2026-03-08 12:57:48: Connection opened from 127.0.0.1:58196
+2026-03-08 12:57:48: Client 127.0.0.1:58196 performed: open_remote_transfer as root
+2026-03-08 12:57:49: Client 127.0.0.1:58196 performed: write_remote_transfer as root
+2026-03-08 12:57:49: Client 127.0.0.1:58196 performed: close_remote_transfer as root
+2026-03-08 12:57:49: Client 127.0.0.1:58196 performed: stop_service as root
+2026-03-08 12:57:49: Client 127.0.0.1:58196 performed: delete_service as root
+2026-03-08 12:57:49: Client 127.0.0.1:58196 performed: create_service as root
+2026-03-08 12:57:49: Client 127.0.0.1:58196 performed: start_service as root
+2026-03-08 12:57:49: Client 127.0.0.1:58196 performed: status_service as root
+2026-03-08 12:57:49: Connection closed from 127.0.0.1:58196
+2026-03-08 12:57:53: Connection opened from 127.0.0.1:58202
+2026-03-08 12:57:54: Client 127.0.0.1:58202 performed: list_services as root
+2026-03-08 12:57:54: Connection closed from 127.0.0.1:58202
+2026-03-08 13:51:28: Connection opened from 127.0.0.1:59520
+2026-03-08 13:51:29: Client 127.0.0.1:59520 performed: list_services as root
+2026-03-08 13:51:29: Connection closed from 127.0.0.1:59520
+2026-03-08 13:52:11: Connection opened from 127.0.0.1:59806
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: open_remote_transfer as root
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: write_remote_transfer as root
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: close_remote_transfer as root
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: stop_service as root
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: delete_service as root
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: create_service as root
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: start_service as root
+2026-03-08 13:52:11: Client 127.0.0.1:59806 performed: status_service as root
+2026-03-08 13:52:11: Connection closed from 127.0.0.1:59806
+2026-03-08 13:52:21: Connection opened from 127.0.0.1:35740
+2026-03-08 13:52:22: Client 127.0.0.1:35740 performed: list_services as root
+2026-03-08 13:52:22: Connection closed from 127.0.0.1:35740
+2026-03-08 13:52:30: Connection opened from 127.0.0.1:36292
+2026-03-08 13:52:30: Client 127.0.0.1:36292 performed: list_services as root
+2026-03-08 13:52:30: Connection closed from 127.0.0.1:36292
+2026-03-08 13:52:56: Connection opened from 127.0.0.1:60636
+2026-03-08 13:52:56: Client 127.0.0.1:60636 performed: stop_service as root
+2026-03-08 13:52:56: Connection closed from 127.0.0.1:60636
+2026-03-08 13:52:58: Connection opened from 127.0.0.1:57374
+2026-03-08 13:52:58: Client 127.0.0.1:57374 performed: list_services as root
+2026-03-08 13:52:58: Connection closed from 127.0.0.1:57374
+2026-03-08 13:53:51: Connection opened from 127.0.0.1:45454
+2026-03-08 13:53:51: Client 127.0.0.1:45454 performed: status_service as root
+2026-03-08 13:53:51: Connection closed from 127.0.0.1:45454
+2026-03-08 13:55:03: Connection opened from 127.0.0.1:40736
+2026-03-08 13:55:04: Client 127.0.0.1:40736 performed: list_services as root
+2026-03-08 13:55:04: Connection closed from 127.0.0.1:40736
+2026-03-08 13:55:50: Connection opened from 127.0.0.1:50504
+2026-03-08 13:55:50: Client 127.0.0.1:50504 performed: list_services as root
+2026-03-08 13:55:50: Connection closed from 127.0.0.1:50504
+2026-03-08 18:24:16: Connection opened from 127.0.0.1:59268
+2026-03-08 18:24:16: Client 127.0.0.1:59268 performed: list_services as root
+2026-03-08 18:24:16: Connection closed from 127.0.0.1:59268
+2026-03-08 19:55:43: Connection opened from 127.0.0.1:43006
+2026-03-08 19:55:43: Client 127.0.0.1:43006 performed: list_services as root
+2026-03-08 19:55:43: Connection closed from 127.0.0.1:43006
+2026-03-09 08:43:36: Connection opened from 127.0.0.1:34624
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: open_remote_transfer as root
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: write_remote_transfer as root
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: close_remote_transfer as root
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: stop_service as root
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: delete_service as root
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: create_service as root
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: start_service as root
+2026-03-09 08:43:37: Client 127.0.0.1:34624 performed: status_service as root
+2026-03-09 08:43:37: Connection closed from 127.0.0.1:34624
+2026-03-09 08:43:56: Connection opened from 127.0.0.1:56594
+2026-03-09 08:43:57: Client 127.0.0.1:56594 performed: list_services as root
+2026-03-09 08:43:57: Connection closed from 127.0.0.1:56594
+2026-03-09 08:48:44: Connection opened from 127.0.0.1:38108
+2026-03-09 08:48:44: Client 127.0.0.1:38108 performed: stop_service as root
+2026-03-09 08:48:44: Connection closed from 127.0.0.1:38108
+2026-03-09 08:48:46: Connection opened from 127.0.0.1:38118
+2026-03-09 08:48:46: Client 127.0.0.1:38118 performed: list_services as root
+2026-03-09 08:48:46: Connection closed from 127.0.0.1:38118
+2026-03-09 08:49:36: Connection opened from 127.0.0.1:50670
+2026-03-09 08:49:36: Client 127.0.0.1:50670 performed: open_remote_transfer as root
+2026-03-09 08:49:36: Client 127.0.0.1:50670 performed: write_remote_transfer as root
+2026-03-09 08:49:36: Client 127.0.0.1:50670 performed: close_remote_transfer as root
+2026-03-09 08:49:36: Client 127.0.0.1:50670 performed: stop_service as root
+2026-03-09 08:49:37: Client 127.0.0.1:50670 performed: delete_service as root
+2026-03-09 08:49:37: Client 127.0.0.1:50670 performed: create_service as root
+2026-03-09 08:49:37: Client 127.0.0.1:50670 performed: start_service as root
+2026-03-09 08:49:37: Client 127.0.0.1:50670 performed: status_service as root
+2026-03-09 08:49:37: Connection closed from 127.0.0.1:50670
+2026-03-09 09:32:55: Connection opened from 127.0.0.1:39122
+2026-03-09 09:32:55: Client 127.0.0.1:39122 performed: list_services as root
+2026-03-09 09:32:55: Connection closed from 127.0.0.1:39122
+2026-03-09 09:33:01: Connection opened from 127.0.0.1:47352
+2026-03-09 09:33:02: Client 127.0.0.1:47352 performed: stop_service as root
+2026-03-09 09:33:02: Connection closed from 127.0.0.1:47352
+2026-03-09 09:33:03: Connection opened from 127.0.0.1:47366
+2026-03-09 09:33:03: Client 127.0.0.1:47366 performed: list_services as root
+2026-03-09 09:33:03: Connection closed from 127.0.0.1:47366
+2026-03-09 10:28:43: Connection opened from 127.0.0.1:39832
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: open_remote_transfer as root
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: write_remote_transfer as root
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: close_remote_transfer as root
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: stop_service as root
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: delete_service as root
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: create_service as root
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: start_service as root
+2026-03-09 10:28:44: Client 127.0.0.1:39832 performed: status_service as root
+2026-03-09 10:28:44: Connection closed from 127.0.0.1:39832
+2026-03-09 10:29:25: Connection opened from 127.0.0.1:48208
+2026-03-09 10:29:25: Client 127.0.0.1:48208 performed: list_services as root
+2026-03-09 10:29:25: Connection closed from 127.0.0.1:48208
+2026-03-09 10:33:32: Connection opened from 127.0.0.1:55346
+2026-03-09 10:33:32: Client 127.0.0.1:55346 performed: open_remote_transfer as root
+2026-03-09 10:33:32: Client 127.0.0.1:55346 performed: write_remote_transfer as root
+2026-03-09 10:33:32: Client 127.0.0.1:55346 performed: close_remote_transfer as root
+2026-03-09 10:33:33: Client 127.0.0.1:55346 performed: stop_service as root
+2026-03-09 10:33:33: Client 127.0.0.1:55346 performed: delete_service as root
+2026-03-09 10:33:33: Client 127.0.0.1:55346 performed: create_service as root
+2026-03-09 10:33:33: Client 127.0.0.1:55346 performed: start_service as root
+2026-03-09 10:33:33: Client 127.0.0.1:55346 performed: status_service as root
+2026-03-09 10:33:33: Connection closed from 127.0.0.1:55346
+2026-03-09 10:33:56: Connection opened from 127.0.0.1:36010
+2026-03-09 10:33:56: Client 127.0.0.1:36010 performed: list_services as root
+2026-03-09 10:33:56: Connection closed from 127.0.0.1:36010
+2026-03-09 10:34:16: Connection opened from 127.0.0.1:59992
+2026-03-09 10:34:16: Client 127.0.0.1:59992 performed: stop_service as root
+2026-03-09 10:34:16: Connection closed from 127.0.0.1:59992
+2026-03-09 10:34:23: Connection opened from 127.0.0.1:43142
+2026-03-09 10:34:24: Client 127.0.0.1:43142 performed: list_services as root
+2026-03-09 10:34:24: Connection closed from 127.0.0.1:43142
+2026-03-12 13:26:06: Connection opened from 127.0.0.1:57670
+2026-03-12 13:26:07: Client 127.0.0.1:57670 performed: run_cmd as root
+2026-03-12 13:26:07: Connection closed from 127.0.0.1:57670
+2026-03-12 13:33:33: Connection opened from 127.0.0.1:43368
+2026-03-12 13:33:33: Client 127.0.0.1:43368 performed: run_cmd as root
+2026-03-12 13:33:33: Connection closed from 127.0.0.1:43368
+2026-03-12 13:33:52: Connection opened from 127.0.0.1:41942
+2026-03-12 13:33:53: Client 127.0.0.1:41942 performed: run_cmd as root
+2026-03-12 13:33:53: Connection closed from 127.0.0.1:41942
+2026-03-12 13:34:53: Connection opened from 127.0.0.1:50792
+2026-03-12 13:34:53: Connection closed from 127.0.0.1:50792
