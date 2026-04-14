@@ -1,7 +1,7 @@
 
     # HypothesisBase Systems Controller
 
-    The HypothesisBase Systems Controller is a portable, easy-to-use configuration management system. It integrates seamlessly with your existing infrastructure at the executable layer, and its simple API requires minimal learning. Manage configurations with intuitive workflows that enhance system uptime and boost developer agility
+The HypothesisBase Systems Controller is a portable, easy-to-use configuration management system. It integrates seamlessly with your existing infrastructure at the executable layer, and its simple API requires minimal learning. Manage configurations with intuitive workflows that enhance system uptime and boost developer agility
 
 
     ## 🛠️ Installation & Setup
@@ -19,7 +19,7 @@
 
     ##🚀 Execution Guide
 
-    This system consists of two primary components: the Managed Node (MN) and the Systems Controller (SC). Both must be running for the Web UI to function correctly.
+This system consists of two primary components: the Managed Node (MN) and the Systems Controller (SC). Both must be running for the Web UI to function correctly.
 
     ###Option A: Windows (Native)
     1. Update SC.json: Ensure the control_node_path points to the .exe:
@@ -65,7 +65,6 @@ HypothesisBase Systems Controller is a platform-agnostic configuration managemen
    cd systems-controller
 
 ## 🚀 Execution Guide
-
 This system consists of two primary components: the Managed Node (MN) and the Systems Controller (SC). Both must be running for the Web UI to function correctly.
 
 ### Option A: Windows (Native)
